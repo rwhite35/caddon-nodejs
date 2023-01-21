@@ -1,0 +1,22 @@
+{
+  "name": "caddon",
+  "version": "1.0.0",
+  "description": "toy project for testing C++ interop",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwhite35/caddon-nodejs.git"
+  },
+  "keywords": [
+    "interoperability"
+  ],
+  "author": "ron.white@boxcast.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwhite35/caddon-nodejs/issues"
+  },
+  "homepage": "https://github.com/rwhite35/caddon-nodejs#readme"
+}
